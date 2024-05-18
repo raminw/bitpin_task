@@ -1,0 +1,15 @@
+colorlog==5.0.1
+dataclasses==0.6
+dataclasses-json==0.6.5
+dataclasses-serialization==1.3.1
+Django==4.2.13
+django-bulk-update-or-create==0.3.0
+django-crontab==0.7.1
+django-ratelimit==4.1.0
+django-requestlogging==1.0.1
+django-service-objects==0.7.1
+djangorestframework==3.15.1
+djangorestframework-datatables==0.7.1
+djangorestframework-simplejwt==5.3.1
+drf-yasg==1.21.7
+psycopg2==2.9.3
